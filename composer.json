@@ -1,5 +1,5 @@
 {
-	"name": "shen2/fluent-cql",
+	"name": "jomedia/fluent-cql",
 	"description": "an php CQL building library",
 	"keywords":[
 		"cassandra",
